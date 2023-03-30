@@ -1,0 +1,5 @@
+alias open="explorer.exe"
+alias a="php artisan"
+alias cat="batcat"
+alias phpunit="./vendor/bin/phpunit"
+alias pest="./vendor/bin/pest"
