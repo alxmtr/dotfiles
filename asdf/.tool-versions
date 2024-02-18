@@ -4,3 +4,4 @@ yarn 1.22.19
 postgres 15.2
 python 3.11.2
 ruby 2.6.3
+bun 1.0.27
