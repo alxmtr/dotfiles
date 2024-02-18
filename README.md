@@ -2,7 +2,7 @@
 Config files I use on my WSL2 environement.
 Symlinks are managed with [stow][].
 
-To use this files with the symlinks, install stow and clone this repository:
+To use this files with the symlinks, install `stow` and clone this repository:
 ```bash
 sudo apt install stow
 cd ~
