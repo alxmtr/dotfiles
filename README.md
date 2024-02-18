@@ -20,5 +20,6 @@ To remove user infos in gitconfig (before git commit):
 ```bash
 git config --global --remove-section user
 ```
+> I do this for privacy purpose as this repository contains my `.gitconfig` file.
 
 [stow]: https://www.gnu.org/software/stow/
