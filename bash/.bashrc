@@ -135,3 +135,6 @@ pg_ctl start > /dev/null 2>&1
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH=$BUN_INSTALL/bin:$PATH
+
+# Golang
+. ~/.asdf/plugins/golang/set-env.bash
