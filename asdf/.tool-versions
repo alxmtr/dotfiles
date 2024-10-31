@@ -1,8 +1,8 @@
-php 8.2.4
-nodejs 18.15.0
+php 8.3.13
+nodejs 22.11.0
 yarn 1.22.19
-postgres 15.2
-python 3.11.2
+postgres 17.0
+python 3.13.0
 ruby 2.6.3
-bun 1.0.27
+bun 1.1.33
 golang 1.23.2
